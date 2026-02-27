@@ -1,14 +1,14 @@
 /* Color Palette
-# - color 1
-# - color 2
-# - color 3
-# - color 4
+# - #75ff00
+# - #000000
+# - #30e2ad
+# - #5e5c63
 */
 
 /* Global styles 
 ------------------------------------*/
 body {
-    /*background: lightblue;*/
+    background: lightblue;
 }
 
 

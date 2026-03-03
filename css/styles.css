@@ -1,13 +1,18 @@
 /* Color Palette
-# - #75ff00
-# - #000000
-# - #30e2ad
-# - #5e5c63
+# - #373f51
+# - #a9bcd0
+# - #d8dbe2
+# - #58a4b0
 */
 
 /* Global styles 
 ------------------------------------*/
+.content-wrap{
+    width: 950px; 
+    margin: 0 auto; 
+}
 body {
+    background: #373f51;
     font-family: "Pangolin", cursive;
     font-weight: 400;
     font-style: normal;
@@ -16,8 +21,14 @@ body {
 
 /* Header & Footer 
 ------------------------------------*/
-header, footer{
-    background: #75ff00;
+header{
+    background: #a9bcd0;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+footer{
+    background: #d8dbe2;
     font-family: "Crimson Text", serif;
     font-weight: 400;
     font-style: normal; 
@@ -33,12 +44,12 @@ h1,h2{
 /* Work Experience
 ------------------------------------*/
 #Work-Experience{
-    background: #30e2ad;
+    background: #58a4b0;
 }
 
 
 /* Education
 ------------------------------------*/
 #Education{
-    background: #5e5c63;
+    background: #58a4b0;
 }

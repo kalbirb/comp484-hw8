@@ -27,6 +27,12 @@
     float: left;
     min-height: 225px;
 }
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 body {
     background: #373f51;
     font-family: "Pangolin", cursive;

@@ -14,10 +14,18 @@
     overflow: hidden;
 }
 .profile-img{
-    width: 300px;
     border-radius:50%;
+}
+.column-narrow{
+    width: 30%; 
+    float: left; 
+    padding-right: 3%; 
+    min-height: 175px;
+}
+.column-wide{
+    width: 70%; 
     float: left;
-    margin-right: 30 px
+    min-height: 225px;
 }
 body {
     background: #373f51;

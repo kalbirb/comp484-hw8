@@ -14,7 +14,10 @@
     overflow: hidden;
 }
 .profile-img{
+    /* width: 300px; */
     border-radius:50%;
+    /* float: left; */
+    /* margin-right: 30 px; */
 }
 .column-narrow{
     width: 30%; 
@@ -87,7 +90,14 @@ h2{
 /* Education
 ------------------------------------*/
 #Education{
-    background: #58a4b0;
+    color: #eeeeee;
+    /* background: #58a4b0; */
+    background-image:
+        linear-gradient(rgba(31, 111, 139, 0.7), rgba(12, 19, 30, 0.7)),
+        url(https://csunlayer8.com/wp-content/uploads/2024/06/Layer8CCDC.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .contact-info a{

@@ -94,7 +94,7 @@ h2{
     /* background: #58a4b0; */
     background-image:
         linear-gradient(rgba(31, 111, 139, 0.7), rgba(12, 19, 30, 0.7)),
-        url(../images/Layer8CCDC.png);
+        url("../images/Layer8CCDC.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
